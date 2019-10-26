@@ -13,6 +13,6 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
 _This will also be italic_
 
 **This text will be bold**
-_This will also be bold_
+__This will also be bold__
 
 _You **can** combine them_
