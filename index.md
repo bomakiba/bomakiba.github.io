@@ -1,7 +1,7 @@
 This is my first basic web page. Stay tune, more to come!
 
 # Tutorials
-## [MarkDown Tutorial](docs/markdown-tutorial)
+## [MarkDown Tutorial](docs/markdown-tutorial.md)
 ## Xxxxxxxx Tutorial
 
 ## Syntax guide
