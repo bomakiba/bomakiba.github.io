@@ -36,3 +36,7 @@ _You **can** combine them_
 
 ### Images
 ![GitHub Logo](/images/logo.png)
+
+### Links
+http://github.com - automatic!
+[GitHub](https://github.com)
