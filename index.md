@@ -40,3 +40,9 @@ _You **can** combine them_
 ### Links
 http://github.com - automatic!
 [GitHub](https://github.com)
+
+###Blockquotes
+
+As Kanye West said:
+> We're living in the future so
+> the present is our past.
