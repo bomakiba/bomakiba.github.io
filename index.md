@@ -5,3 +5,6 @@ This is my first basic web page. Stay tune, more to come!
 * [MarkDown Tutorial](docs/markdown-tutorial.md)
   * TODO: Flavored markdown
 * Xxxxxxxx Tutorial
+
+## TODOS
+* Add my favorite images
