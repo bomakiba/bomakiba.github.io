@@ -41,8 +41,13 @@ _You **can** combine them_
 http://github.com - automatic!
 [GitHub](https://github.com)
 
-###Blockquotes
+### Blockquotes
 
 As Kanye West said:
 > We're living in the future so
 > the present is our past.
+
+### Inline Code
+
+I think you should use an
+`<addr>` element here instead.
