@@ -36,4 +36,3 @@ _You **can** combine them_
 
 #### Images
 ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](URL)
