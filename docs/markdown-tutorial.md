@@ -50,4 +50,10 @@ As Kanye West said:
 I think you should use an
 `<addr>` element here instead.
 
-## TODO: Flavored markdown
+# Flavored Markdown Tutorials
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
